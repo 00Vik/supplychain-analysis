@@ -1,0 +1,20 @@
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 个人编辑器配置
+.vscode/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.pyc
+
+# 数据库文件与大数据集
+data/
+
+# 如果有大文件或临时图表
+*.log
+.DS_Store
